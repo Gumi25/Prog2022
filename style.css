@@ -5,9 +5,10 @@
     padding: 0;
 }
 body{
-    background-image: url("https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg");
+    background-image: url("https://www.xtrafondos.com/wallpapers/ubuntu-15-vivid-vervet-3441.jpg");
     background-position: center;
     background-size: contain;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .contenedor{
@@ -15,7 +16,7 @@ body{
     width: 90%;
     margin: auto;
     text-align: center;
-    color: blueviolet;
+    color: white;
 }
 
 
@@ -25,5 +26,8 @@ img{
   
 }
 .textode{
-    color: yellowgreen;
+    color: violet;
+}
+.tituloprin{
+    color: white;
 }
