@@ -7,7 +7,7 @@
 body{
     background-image: url("https://www.xtrafondos.com/wallpapers/ubuntu-15-vivid-vervet-3441.jpg");
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -29,5 +29,5 @@ img{
     color: violet;
 }
 .tituloprin{
-    color: white;
+    color: rgba(255, 217, 0, 0.849);
 }
